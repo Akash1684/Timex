@@ -1,11 +1,11 @@
 Timex
 =============
 
-![](images/images128.png)
+![](images/icon.png)
 
 Timex is a Chrome extension that keeps track of the surfing time and display it along with random quote about importance of time, whenever accessed.
 
-[Direct download of crx file]
+[Direct download of crx file] (https://github.com/Akash1684/Timex/blob/master/Timex.crx?raw=true)
 
 Screenshot
 ---
