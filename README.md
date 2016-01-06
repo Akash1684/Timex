@@ -7,6 +7,13 @@ Timex is a Chrome extension that keeps track of the surfing time and display it 
 
 [Direct download of crx file] (https://github.com/Akash1684/Timex/blob/master/Timex.crx?raw=true)
 
+How it Works
+---
+
+* As the extension will be installed, `timer.js` will start running in the background.
+* `timer.js` will calculate the active time of the *Chrome* browser.
+* On accessing the extension, `main.js` will execute and time calculated by `timer.js` along with a *random quote* will be displayed.
+
 Screenshot
 ---
 
